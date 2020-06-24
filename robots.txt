@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://naturalcancertreatments.github.io/mysitemap.xml
+Sitemap: https://naturalcancertreatments.github.io/sitemap.xml
