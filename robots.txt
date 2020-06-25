@@ -1,8 +1,6 @@
 User-agent: Googlebot
 Disallow:
 
-User-agent: Googlebot desktop
-Disallow:
 
 User-agent: *
 Disallow: 
