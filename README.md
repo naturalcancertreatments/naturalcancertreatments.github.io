@@ -1,1 +1,1 @@
-# https://naturalcancertreatments.github.io
+# https://naturalcancertreatments.github.io/site/index.html
